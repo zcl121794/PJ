@@ -1,0 +1,1 @@
+import{x as e}from"./index-BTmMdNJ8.js";function r(){return e.get("/user/list")}function n(){return e.get("/user/assignable")}function u(t){return e.post("/user",t)}function i(){return e.get("/role/list")}export{r as a,i as b,u as c,n as g};
